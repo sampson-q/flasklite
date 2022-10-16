@@ -16,6 +16,7 @@ flasklite is meant to provide a simple structure for Flask projects.
 >> </pre>
 
 ## Intended Structure
+<pre>
 projectname\
 |__ projectnameApp\
 |   |__ static\
@@ -25,7 +26,7 @@ projectname\
 |   |__ auth.py
 |   |__ views.py
 |__  main.py
-
+</pre>
 ## Requirements
 > 1. Python 3 (must be added to path)
 > 2. Flask
