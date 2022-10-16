@@ -8,4 +8,4 @@ flasklite is meant to provide a simple but powerful structure for Flask projects
 > 3. Run setup.py: <code>python setup.py install</code>
 > 4. run flasklite (with options)<br>
 >> Usage: flasklite [options]
->> <pretext>Usage:                  description</pretext>
+>> <br><pretext>Usage:                  description</pretext>
