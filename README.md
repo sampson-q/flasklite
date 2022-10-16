@@ -101,3 +101,13 @@ flasklite is meant to provide a simple structure for Flask projects.
                 displayError()
     else:
         print('Python not installed. Get latest version at https://www.python.org/downloads/ to be able to run this script. Enable path during installation')
+
+## Compile flasklite.py
+### Packages Used (for compilation):
+> 1. pyinstaller
+
+### Packages used (in code):
+> 1. os
+> 2. subprocess
+> 3. sys
+> 4. secrets
