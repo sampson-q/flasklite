@@ -1,6 +1,6 @@
 # flasklite
 
-flasklite is meant to provide a simple but powerful structure for Flask projects.
+flasklite is meant to provide a simple structure for Flask projects.
 
 ## How to Run
 > 1. Clone repository: <code>git clone https://www.github.com/sampson-q/flasklite</code>
@@ -14,3 +14,20 @@ flasklite is meant to provide a simple but powerful structure for Flask projects
 >> -h, --help           display help of this command
 >> -p [projectname]     creates a new project
 >> </pre>
+
+## Intended Structure
+projectname\
+|__ projectnameApp\
+|   |__ static\
+|   |__ templates\
+|      |__ base.html
+|   |__ __init__.py
+|   |__ auth.py
+|   |__ views.py
+|__  main.py
+
+## Requirements
+> 1. Python 3 (must be added to path)
+> 2. Flask
+> 3. Flask-Login
+> 4. pip
