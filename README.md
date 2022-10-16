@@ -29,7 +29,9 @@
   |   |    +---> base.html
   |   |
   |   +---> __init__.py
+  |   |
   |   +---> auth.py
+  |   |
   |   +---> views.py
   |
   +---> main.py
