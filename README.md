@@ -34,7 +34,7 @@ flasklite is meant to provide a simple structure for Flask projects.
 > 3. Flask-Login
 > 4. pip
 
-##flasklite.py
+## flasklite.py
 <code>
   # Author: Hash 👽
 
