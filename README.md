@@ -16,7 +16,7 @@
 >> projectname          name of your Flask project
 >> </pre>
 
-## Intended Structure of flasklite
+## Structure flasklite Intend to Create
 <pre>
   projectname\
   |
@@ -44,7 +44,7 @@
 > 4. pip
 > 5. Written for windows
 
-## Inside flasklite.py
+## Inside of flasklite.py
     # Author: Hash 👽
 
     import os, subprocess, sys, secrets
