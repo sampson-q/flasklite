@@ -10,4 +10,4 @@ flasklite is meant to provide a simple but powerful structure for Flask projects
 >> Usage: flasklite [options]
 >> <br>options:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;description
 >> <br>-h, --help&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;display help of this command
->> <br>-p&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;creates a new project: flasklite -p projectname
+>> <br>-p project-name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;creates a new project: flasklite -p projectname
