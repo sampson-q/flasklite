@@ -39,6 +39,7 @@ flasklite is meant to provide a simple structure for Flask projects.
 > 2. Flask
 > 3. Flask-Login
 > 4. pip
+> 5. Written for windows
 
 ## Inside flasklite.py
     # Author: Hash 👽
