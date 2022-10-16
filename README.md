@@ -18,14 +18,20 @@ flasklite is meant to provide a simple structure for Flask projects.
 ## Intended Structure of flasklite
 <pre>
   projectname\
-  |__ projectnameApp\
-  |  |__ static\
-  |  |__ templates\
-  |     |__ base.html
-  |  |__ __init__.py
-  |  |__ auth.py
-  |  |__ views.py
-  |__ main.py
+  |
+  +---> projectnameApp\
+  |   |
+  |   +---> static\
+  |   |
+  |   +---> templates\
+  |   |    |
+  |   |    +---> base.html
+  |   |
+  |   +---> __init__.py
+  |   +---> auth.py
+  |   +---> views.py
+  |
+  +---> main.py
 </pre>
 
 ## Requirements to Use flasklite
