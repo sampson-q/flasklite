@@ -7,7 +7,6 @@ flasklite is meant to provide a simple but powerful structure for Flask projects
 > 2. Change into the cloned directory
 > 3. Run setup.py: <code>python setup.py install</code>
 > 4. run flasklite (with options)<br>
->> <code>Usage: flasklite [options]
-  >> <p>options:&emsp;&emsp;description</p>
+>> Usage: flasklite [options]
+>> <p>options:&emsp;&emsp;description</p>
 >> <br>-h, --help&emsp;&emsp;display help of this command\n-p\t\t\tcreates a new project: flasklite -p projectname
->> </code>
