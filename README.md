@@ -35,7 +35,7 @@ flasklite is meant to provide a simple structure for Flask projects.
 > 4. pip
 
 ## flasklite.py
-<code>
+<code>```
   # Author: Hash 👽
 
 import os, subprocess, sys, secrets
@@ -102,4 +102,5 @@ if pythonVersion[:10] != 'Python was':
             displayError()
 else:
     print('Python not installed. Get latest version at https://www.python.org/downloads/ to be able to run this script. Enable path during installation')
+  ```
 </code>
