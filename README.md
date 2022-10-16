@@ -8,7 +8,8 @@ flasklite is meant to provide a simple but powerful structure for Flask projects
 > 3. Run setup.py: <code>python setup.py install</code>
 > 4. run flasklite (with options)<br>
 >> <pre>
->> Usage: flasklite [options]
->> <br>Usage:                  description
->> </pre>
+>> <br>Usage: flasklite [options]
 >> 
+>> <br>options:     description
+>> <br>-h, --help\t\tdisplay help of this command\n-p\t\t\tcreates a new project: flasklite -p projectname
+>> </pre>
