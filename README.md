@@ -1,6 +1,5 @@
 # flasklite
-
-flasklite is meant to provide a simple and clean project structure for Flask projects.
+> flasklite is meant to provide a simple and clean project structure for Flask projects.
 
 ## How to Run flasklite
 > 1. Clone repository: <code>git clone https://www.github.com/sampson-q/flasklite</code>
